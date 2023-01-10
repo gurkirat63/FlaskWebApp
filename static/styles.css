@@ -21,5 +21,29 @@ font-weight:Bold;
 }
 
 
+/*Content-box*/
+
+.post-title{
+background-color: #82AAE3;
+border-radius: 5px 5px 5px 5px;
+
+}
+
+.post-title h6{
+
+}
+
+.post-box{
+padding: 20px 20px;
+height: 50%;
+width:50%;
+background-color: #EAFDFC;
+}
+
+.post-content{
+background-color: #91D8E4;
+border-radius: 5px 5px 5px 5px;
+}
+
 
 
