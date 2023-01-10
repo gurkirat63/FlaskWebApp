@@ -1,0 +1,25 @@
+
+
+/*Navigation Bar Section*/
+
+.nav-item{
+padding: 0 10px;
+}
+
+.nav-link{
+font-size:1.1rem;
+}
+
+.navbar-brand{
+font-family:"Montserrat";
+font-size: 2.3rem;
+font-weight:Bold;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+
+
+
+
