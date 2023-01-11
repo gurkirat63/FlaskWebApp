@@ -29,9 +29,6 @@ border-radius: 5px 5px 5px 5px;
 
 }
 
-.post-title h6{
-
-}
 
 .post-box{
 padding: 20px 20px;
@@ -46,4 +43,4 @@ border-radius: 5px 5px 5px 5px;
 }
 
 
-
+.author_name{text-align :right}

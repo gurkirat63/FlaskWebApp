@@ -6,8 +6,10 @@
 
 {% for post in posts%}
 <div class="post-box">
-    <div class="post-title"><h2>{{post.post_title}}</h2>
-        <h6>{{post.author}}</h6></div>
+    <div class="post-title">
+        <span><h2>{{post.post_title}}</h2></span>
+        <span class="author_name"><h6>{{post.author}}</h6></span>
+    </div>
     <div class="post-content">
         <h6>{{post.post_date}}</h6>
         <p> {{post.post_content}}</p>
